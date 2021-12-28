@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AG-SimonG
+- 👀 I’m interested in Design and Web Developement !
+- 🌱 I’m currently learning to work with odoo during my apprenticeship in Auguria.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me by mail : simon.galoyan@auguria.fr
